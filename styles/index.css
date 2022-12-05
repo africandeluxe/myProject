@@ -22,4 +22,9 @@ header, footer{
 main{
     flex-grow: 1;
 }
+.main-content{
+    background-color: #B7CE63;
+    padding: 48px;
+    width: 50%;
+}
 
